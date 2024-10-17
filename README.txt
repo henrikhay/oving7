@@ -4,3 +4,5 @@ ny tekstlinje
 
 enda en linje
 jiergiperpgperiogjopeiwrhjgerhgieprwhg
+
+enda en ny linje
